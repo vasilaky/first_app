@@ -1,0 +1,2 @@
+use this command to inclede the sublime editor as subl command: 
+doskey subl="C:\Program Files\Sublime Text 2\sublime_text.exe" $*
